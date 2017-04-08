@@ -1,0 +1,6 @@
+version: '2'
+
+services:
+  prod7:
+    build: .
+    image: orangehrm/orangehrm-environment-images:prod-7
