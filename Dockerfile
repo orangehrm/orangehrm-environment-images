@@ -1,4 +1,4 @@
-FROM orangehrm/orangehrm-environment-images:prod-7
+FROM orangehrm/orangehrm-environment-images:prod-7.0
 
 MAINTAINER orangehrm
 LABEL authors = "Ruchira Amarasinghe <ruchira@orangehrm.com>"
